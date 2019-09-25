@@ -5,4 +5,4 @@ My currently installed versions of xCode cannot compile an xCode project written
 
 I do know this was the final project of App Dev 2. At the time I was fascinated audio visualizers, so I tried my best to learn to make one somehow. I utilized an externally compiled framework: AudioKit. 
 
-I believe to have been proud of the A I recieved. Super fun course! :)
+I believe to have been proud of the A I received. Super fun course! :)
